@@ -112,19 +112,6 @@ I design and integrate complete mechatronic systems: industrial automation, mech
 
 <br/>
 
-## 🖥️ Most Used Softwares
-
-<p>
-  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fusion%20360-FF6C00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/KeyShot-2F2F2F?style=for-the-badge&logoColor=white" />
-</p>
-
 <br/>
 <a href="https://buymeacoffee.com/babscode" target="_blank">
   <img src="https://uce769809dcf9f482a03ea62465e.previews.dropboxusercontent.com/p/thumb/ADHaHD7h3uVVB1IQfuYhcdfzZJSy7guUYhnV2HZjiPV6nd5VFPC5tN_ZG8WXtgx3DZ9kOfy1J7VYrNNh8zLyAzeFkjhhqSFPAxuu87aqzNQilZWqmFxx1kwwaGMthQgsgRyRGzYICOwiCwsOGPoz6mqfUQUXn4bqtW6_ro-2P6mDjq9vJsqSHrvQy6KkhXX-C3vEghlX5DndmZVsevBCaPznDTkI_9l1q5AtoGTUlJvdRmE8eK6Tnn_vZHC5xXiRA8_oyNvF2PKlK0ZdZrJq3wEX-ymgHDyVDQ1K9WfbPaQ569bHx85-EDsQ8qGoFzRe4oeRTn63y2qNOtKq8LziuHnMlm66cBQ_VwZWG3pmXHz0vw/p.png" alt="Buy Me a Coffee" width="220"/>
