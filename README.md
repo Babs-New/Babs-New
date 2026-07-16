@@ -127,11 +127,12 @@ I design and integrate complete mechatronic systems: industrial automation, mech
 
 <br/>
 
-<p>
-  <a href="https://buymeacoffee.com/babscode">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-  </a>
-</p>
+<a href="https://buymeacoffee.com/babscode" target="_blank">
+  <button style="background:#FFDD00; color:#000; border:none; border-radius:999px; padding:12px 22px; font-weight:bold; cursor:pointer;">
+    ☕ Buy Me a Coffee
+  </button>
+</a>
+
 
    </td>
   </tr>
