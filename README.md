@@ -101,15 +101,18 @@ I design and integrate complete mechatronic systems: industrial automation, mech
     <td valign="top" width="45%">
 ## 🎯 Skills
 
-- **Industrial Automation:** PLC programming, HMI/SCADA, commissioning, debugging, supervision
-- **Control & Motion:** PID control, servo systems, axis synchronization, motion control
-- **PLC / SCADA Tools:** Control Expert, EcoStruxure, TIA Portal, WinCC, Vijeo Designer, PCVue, AVEVA, B&R Automation Studio
-- **Robotics & Digital Twin:** ROS, ROS2, Isaac Sim, Isaac Lab, Gazebo, mobile robotics
-- **Vision & AI:** OpenCV, YOLO, machine vision, sensor fusion
-- **Mechanical Design:** SolidWorks, Fusion 360, AutoCAD, kinematic modeling
-- **Embedded Systems:** Raspberry Pi, Arduino, remote I/O, instrumentation
+- **Industrial Automation:** PLC programming, HMI/SCADA development, commissioning, debugging, field testing, supervision systems
+- **Control & Motion:** PID control, servo motor control, motion control, axis synchronization, synchronized mechanisms, drive configuration
+- **Industrial Systems:** conveyor systems, palletizing lines, packaging lines, lifting systems, CIP systems, washing stations, industrial boilers
+- **PLC / SCADA Ecosystem:** Schneider Control Expert, EcoStruxure, Siemens TIA Portal, WinCC, Vijeo Designer, PCVue, AVEVA System Platform, B&R Automation Studio, GP-Pro EX
+- **Robotics:** mobile robotics, autonomous navigation, obstacle avoidance, locomotion control, robotic simulation, ROS integration
+- **Simulation & Digital Twin:** Isaac Sim, Isaac Lab, Gazebo, MATLAB, Simulink, digital twin workflows
+- **Computer Vision & AI:** OpenCV, YOLO, machine vision, sensor fusion, perception pipelines
+- **Mechanical Design:** SolidWorks, Fusion 360, AutoCAD, kinematic modeling, mechanical integration, prototyping
+- **Embedded & Hardware:** Raspberry Pi, Arduino, instrumentation integration, remote I/O architectures, industrial communication environments
 - **Software Development:** Python, C, C++, C#, JavaScript, Dart, Flutter, React, Node.js
-- **Engineering:** functional analysis, technical validation, site testing, process optimization
+- **Systems & Tools:** Linux, Ubuntu, Git, GitHub, draw.io, PyCharm, Figma
+- **Engineering Practice:** functional analysis, technical solution comparison, on-site commissioning, process optimization, energy efficiency improvement
 
 ## 📊 GitHub Stats
 
