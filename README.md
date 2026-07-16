@@ -99,6 +99,17 @@ I design and integrate complete mechatronic systems: industrial automation, mech
 
    </td>
     <td valign="top" width="45%">
+## 🎯 Skills
+
+- **Industrial Automation:** PLC programming, HMI/SCADA, commissioning, debugging, supervision
+- **Control & Motion:** PID control, servo systems, axis synchronization, motion control
+- **PLC / SCADA Tools:** Control Expert, EcoStruxure, TIA Portal, WinCC, Vijeo Designer, PCVue, AVEVA, B&R Automation Studio
+- **Robotics & Digital Twin:** ROS, ROS2, Isaac Sim, Isaac Lab, Gazebo, mobile robotics
+- **Vision & AI:** OpenCV, YOLO, machine vision, sensor fusion
+- **Mechanical Design:** SolidWorks, Fusion 360, AutoCAD, kinematic modeling
+- **Embedded Systems:** Raspberry Pi, Arduino, remote I/O, instrumentation
+- **Software Development:** Python, C, C++, C#, JavaScript, Dart, Flutter, React, Node.js
+- **Engineering:** functional analysis, technical validation, site testing, process optimization
 
 ## 📊 GitHub Stats
 
