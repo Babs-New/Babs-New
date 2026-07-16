@@ -25,6 +25,22 @@ I design and integrate complete mechatronic systems: industrial automation, mech
   <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white" />
 </p>
 
+### ⚡ Industrial Automation
+<p>
+  <img src="https://img.shields.io/badge/Schneider-3DCD58?style=plastic&logo=schneider-electric&logoColor=white" />
+  <img src="https://img.shields.io/badge/Control%20Expert-3DCD58?style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/EcoStruxure-2EB67D?style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vijeo-1F8A70?style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCVue-005BAC?style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Siemens-009999?style=plastic&logo=siemens&logoColor=white" />
+  <img src="https://img.shields.io/badge/TIA%20Portal-009999?style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinCC-0078D4?style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SINAMICS%20Drive-00A6A6?style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Motion%20Control-6A5ACD?style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/B%26R-FF6600?style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/AVEVA-2E8B57?style=plastic&logoColor=white" />
+</p>
+
 ### ⚙️ CAD / Mechanics / Design
 <p>
   <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=plastic&logoColor=white" />
@@ -75,6 +91,12 @@ I design and integrate complete mechatronic systems: industrial automation, mech
   <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=plastic&logo=matplotlib&logoColor=black" />
 </p>
 
+---
+
+## 📬 Contact Me
+
+- **Email:** [babscoding@gmail.com](mailto:babscoding@gmail.com)
+
    </td>
     <td valign="top" width="45%">
 
@@ -105,9 +127,9 @@ I design and integrate complete mechatronic systems: industrial automation, mech
 
 <br/>
 
-<p align="left">
+<p>
   <a href="https://buymeacoffee.com/babscode">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
 
