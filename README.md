@@ -127,7 +127,7 @@ I design and integrate complete mechatronic systems: industrial automation, mech
 
 <br/>
 <a href="https://buymeacoffee.com/babscode" target="_blank">
-  <img src="[TON_URL_IMAGE](https://uce769809dcf9f482a03ea62465e.previews.dropboxusercontent.com/p/thumb/ADHaHD7h3uVVB1IQfuYhcdfzZJSy7guUYhnV2HZjiPV6nd5VFPC5tN_ZG8WXtgx3DZ9kOfy1J7VYrNNh8zLyAzeFkjhhqSFPAxuu87aqzNQilZWqmFxx1kwwaGMthQgsgRyRGzYICOwiCwsOGPoz6mqfUQUXn4bqtW6_ro-2P6mDjq9vJsqSHrvQy6KkhXX-C3vEghlX5DndmZVsevBCaPznDTkI_9l1q5AtoGTUlJvdRmE8eK6Tnn_vZHC5xXiRA8_oyNvF2PKlK0ZdZrJq3wEX-ymgHDyVDQ1K9WfbPaQ569bHx85-EDsQ8qGoFzRe4oeRTn63y2qNOtKq8LziuHnMlm66cBQ_VwZWG3pmXHz0vw/p.png)" alt="Buy Me a Coffee" width="220"/>
+  <img src="(https://uce769809dcf9f482a03ea62465e.previews.dropboxusercontent.com/p/thumb/ADHaHD7h3uVVB1IQfuYhcdfzZJSy7guUYhnV2HZjiPV6nd5VFPC5tN_ZG8WXtgx3DZ9kOfy1J7VYrNNh8zLyAzeFkjhhqSFPAxuu87aqzNQilZWqmFxx1kwwaGMthQgsgRyRGzYICOwiCwsOGPoz6mqfUQUXn4bqtW6_ro-2P6mDjq9vJsqSHrvQy6KkhXX-C3vEghlX5DndmZVsevBCaPznDTkI_9l1q5AtoGTUlJvdRmE8eK6Tnn_vZHC5xXiRA8_oyNvF2PKlK0ZdZrJq3wEX-ymgHDyVDQ1K9WfbPaQ569bHx85-EDsQ8qGoFzRe4oeRTn63y2qNOtKq8LziuHnMlm66cBQ_VwZWG3pmXHz0vw/p.png)" alt="Buy Me a Coffee" width="220"/>
 </a>
 
 
