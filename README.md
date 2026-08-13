@@ -2,7 +2,7 @@
   <tr>
     <td valign="top" width="55%">
 
-## 💫 About Me
+## About Me
 
 ### Babacar THIAM  
 **Mechatronics Engineer**  
@@ -12,9 +12,9 @@ I design and integrate complete mechatronic systems: industrial automation, mech
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🤖 Robotics / Simulation / AI
+### Robotics / Simulation / AI
 <p>
   <img src="https://img.shields.io/badge/ROS-0A0FF9?style=plastic&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/ROS2-22314E?style=plastic&logo=ros&logoColor=white" />
@@ -25,7 +25,7 @@ I design and integrate complete mechatronic systems: industrial automation, mech
   <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white" />
 </p>
 
-### ⚡ Industrial Automation
+###  Industrial Automation
 <p>
   <img src="https://img.shields.io/badge/Schneider-3DCD58?style=plastic&logo=schneider-electric&logoColor=white" />
   <img src="https://img.shields.io/badge/Control%20Expert-3DCD58?style=plastic&logoColor=white" />
@@ -41,7 +41,7 @@ I design and integrate complete mechatronic systems: industrial automation, mech
   <img src="https://img.shields.io/badge/AVEVA-2E8B57?style=plastic&logoColor=white" />
 </p>
 
-### ⚙️ CAD / Mechanics / Design
+###  CAD / Mechanics / Design
 <p>
   <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=plastic&logoColor=white" />
   <img src="https://img.shields.io/badge/Fusion%20360-FF6C00?style=plastic&logoColor=white" />
@@ -52,7 +52,7 @@ I design and integrate complete mechatronic systems: industrial automation, mech
   <img src="https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=blender&logoColor=white" />
 </p>
 
-### 🧠 Programming / Software
+###  Programming / Software
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white" />
@@ -67,7 +67,7 @@ I design and integrate complete mechatronic systems: industrial automation, mech
   <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" />
 </p>
 
-### 🔌 Embedded / Hardware / Manufacturing
+###  Embedded / Hardware / Manufacturing
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=plastic&logo=raspberrypi&logoColor=white" />
@@ -77,7 +77,7 @@ I design and integrate complete mechatronic systems: industrial automation, mech
   <img src="https://img.shields.io/badge/Bambu%20Lab-00AE42?style=plastic&logoColor=white" />
 </p>
 
-### 🛠️ Tools / Workflow
+###  Tools / Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white" />
@@ -93,13 +93,13 @@ I design and integrate complete mechatronic systems: industrial automation, mech
 
 ---
 
-## 📬 Contact Me
+##  Contact Me
 
 - **Email:** [babscoding@gmail.com](mailto:babscoding@gmail.com)
 
    </td>
     <td valign="top" width="45%">
-## 🎯 Skills
+##  Skills
 
 - **Industrial Automation:** PLC programming, HMI/SCADA, commissioning, debugging, supervision
   
@@ -119,7 +119,7 @@ I design and integrate complete mechatronic systems: industrial automation, mech
   
 - **Engineering:** functional analysis, technical validation, site testing, process optimization
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=Babs-New&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
