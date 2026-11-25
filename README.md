@@ -4,7 +4,7 @@
 
 ## About Me
 
-### Babacar THIAM  
+### Babs Code  
 **Mechatronics Engineer**  
 *Industrial Automation • Mechanics • Robotics • Digital Twin*
 
